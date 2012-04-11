@@ -178,8 +178,8 @@ en-NZ:
         one: Prototype
         other: Prototypes
       spree/return_authorization:
-        one: "Return Authorization"
-        other: "Return Authorizations"
+        one: "Return Authorisation"
+        other: "Return Authorisations"
       spree/role:
         one: Roles
         other: Roles
@@ -268,8 +268,8 @@ en-NZ:
   attachment_default_url: "Attachments URL"
   attachment_path: "Attachments Path"
   attachment_styles: "Paperclip Styles"
-  authorization_failure: "Authorization Failure"
-  authorized: Authorized
+  authorization_failure: "Authorisation Failure"
+  authorized: Authorised
   availability: Availability
   available_on: "Available On"
   available_taxons: "Available Taxons"
@@ -437,8 +437,8 @@ en-NZ:
   false: "No"
   filename: Filename
   final_confirmation: "Final Confirmation"
-  finalize: Finalize
-  finalized_payments: "Finalized Payments"
+  finalize: Finalise
+  finalized_payments: "Finalised Payments"
   first_item: "First Item Cost"
   first_name: "First Name"
   first_name_begins_with: "First Name Begins With"
@@ -577,7 +577,7 @@ en-NZ:
   new_promotion: "New Promotion"
   new_property: "New Property"
   new_prototype: "New Prototype"
-  new_return_authorization: "New Return Authorization"
+  new_return_authorization: "New Return Authorisation"
   new_shipment: "New Shipment"
   new_shipping_category: "New Shipping Category"
   new_shipping_method: "New Delivery Method"
@@ -634,7 +634,7 @@ en-NZ:
       subject: "Order Confirmation"
   order_not_in_system: "That order number is not valid on this site."
   order_number: Order
-  order_operation_authorize: Authorize
+  order_operation_authorize: Authorise
   order_processed_but_following_items_are_out_of_stock: "Your order has been processed, but following items are out of stock:"
   order_processed_successfully: "Your order has been processed successfully"
   order_state:
@@ -749,11 +749,11 @@ en-NZ:
       ascend_by_name:
         name: "Ascend by product name"
       ascend_by_updated_at:
-        name: "Ascend by actualization date"
+        name: "Ascend by actualisation date"
       descend_by_name:
         name: "Descend by product name"
       descend_by_updated_at:
-        name: "Descend by actualization date"
+        name: "Descend by actualisation date"
       in_name:
         args:
           words: Words
@@ -919,9 +919,9 @@ en-NZ:
   resume: resume
   resumed: Resumed
   return: return
-  return_authorization: "Return Authorization"
-  return_authorization_updated: "Return authorization updated"
-  return_authorizations: "Return Authorizations"
+  return_authorization: "Return Authorisation"
+  return_authorization_updated: "Return authorisation updated"
+  return_authorizations: "Return Authorisations"
   return_quantity: "Return Quantity"
   returned: Returned
   rma_credit: "RMA Credit"
@@ -1090,13 +1090,13 @@ en-NZ:
   type: Type
   type_to_search: "Type to search"
   unable_ship_method: "Unable to generate delivery methods due to a server error."
-  unable_to_authorize_credit_card: "Unable to Authorize Credit Card"
+  unable_to_authorize_credit_card: "Unable to Authorise Credit Card"
   unable_to_capture_credit_card: "Unable to Capture Credit Card"
   unable_to_connect_to_gateway: "Unable to connect to gateway."
   unable_to_save_order: "Unable to Save Order"
   under_paid: "Under Paid"
   under_price: "Under %{price}"
-  unrecognized_card_type: "Unrecognized card type"
+  unrecognized_card_type: "Unrecognised card type"
   update: Update
   update_password: "Update my password and log me in"
   updated_successfully: "Updated Successfully"
